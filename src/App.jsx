@@ -6,6 +6,8 @@ import Log from "./components/Log";
 import GameOver from "./components/GameOver";
 import { WINNING_COMBINATIONS } from "./winning-combinations";
 
+const deneme2 = 3;
+
 const PLAYERS = {
   X: "Player 1",
   O: "Player 2",
